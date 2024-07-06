@@ -4,7 +4,7 @@ Last updated July 07, 2024
 
 
 
-## AGREEMENT TO OUR LEGAL TERMS
+### AGREEMENT TO OUR LEGAL TERMS
 
 We are KarlD18 ("Company," "we," "us," "our"), a company registered in Austria.
 
