@@ -73,9 +73,7 @@ Subject to your compliance with these Legal Terms, including the "PROHIBITED ACT
 
 •	access the Services; and
 
-•	download or print a copy of any portion of the Content to which you have properly gained access.
-
-solely for your personal, non-commercial use.
+•	download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
