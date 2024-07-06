@@ -1,1 +1,1 @@
-# r-KarlD18
+# r/KarlD18's Discord Application
