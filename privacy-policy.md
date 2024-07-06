@@ -1,4 +1,4 @@
-### PRIVACY POLICY
+# PRIVACY POLICY
 
 Last updated July 07, 2024
 
