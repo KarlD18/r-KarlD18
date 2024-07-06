@@ -289,4 +289,5 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
 KarlD18 via Discord/Reddit
+
 r.karld18@gmail.com
