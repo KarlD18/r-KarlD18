@@ -253,7 +253,6 @@ You have rights under certain US state data protection laws. However, these righ
 
 •	Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling").
 
-
 Depending upon the state where you live, you may also have the following rights:
 
 •	Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law).
