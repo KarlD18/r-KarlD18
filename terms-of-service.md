@@ -286,8 +286,4 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 26. CONTACT US
 
-In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
-
-KarlD18 via Discord/Reddit
-
-r.karld18@gmail.com
+In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
