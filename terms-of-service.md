@@ -1,4 +1,4 @@
-TERMS OF SERVICE
+### TERMS OF SERVICE
 
 Last updated July 07, 2024
 
