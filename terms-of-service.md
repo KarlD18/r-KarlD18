@@ -10,7 +10,7 @@ We are KarlD18 ("Company," "we," "us," "our"), a company registered in Austria.
 
 We operate the application r/KarlD18 (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
-You can contact us by email at r.karld18@gmail.com or over Discord/Reddit Direct Messages.
+You can contact us by email at r.karld18@gmail.com or via Discord/Reddit Direct Messages.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and KarlD18, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
