@@ -62,7 +62,7 @@ We collect personal information that you voluntarily provide to us when you expr
 
 Personal Information Provided by You: The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
-•	usernames
+•	Usernames
 
 Sensitive Information: We do not process sensitive information.
 
