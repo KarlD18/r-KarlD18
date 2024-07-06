@@ -6,8 +6,9 @@ Last updated July 07, 2024
 
 This privacy notice for KarlD18 ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-•	Download and use our Discord application (r/KarlD18), or any other application of ours that links to this privacy notice
-•	Engage with us in other related ways, including any sales, marketing, or events
+•	Download and use our Discord application (r/KarlD18), or any other application of ours that links to this privacy notice.
+
+•	Engage with us in other related ways, including any sales, marketing, or events.
 
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
 
@@ -85,7 +86,9 @@ In Short: We only process your personal information when we believe it is necess
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
 •	Consent: We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
+
 •	Legal Obligations: We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
+
 •	Vital Interests: We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
 ### If you are located in Canada, this section applies to you.
@@ -94,17 +97,27 @@ We may process your information if you have given us specific permission (i.e., 
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
-•	If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
-•	For investigations and fraud detection and prevention
-•	For business transactions provided certain conditions are met
-•	If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
-•	For identifying injured, ill, or deceased persons and communicating with next of kin
-•	If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
-•	If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
-•	If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
-•	If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
-•	If the collection is solely for journalistic, artistic, or literary purposes
-•	If the information is publicly available and is specified by the regulations
+•	If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way.
+
+•	For investigations and fraud detection and prevention.
+
+•	For business transactions provided certain conditions are met.
+
+•	If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim.
+
+•	For identifying injured, ill, or deceased persons and communicating with next of kin.
+
+•	If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse.
+
+•	If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province.
+
+•	If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records.
+
+•	If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced.
+
+•	If the collection is solely for journalistic, artistic, or literary purposes.
+
+•	If the information is publicly available and is specified by the regulations.
 
 ### 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
@@ -201,7 +214,9 @@ NO
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
 •	Receiving help through our customer support channels;
+
 •	Participation in customer surveys or contests; and
+
 •	Facilitation in the delivery of our Services and to respond to your inquiries.
 
 ### Sources of Personal Information
@@ -224,18 +239,29 @@ We have not disclosed, sold, or shared any personal information to third parties
 
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
 
-•	Right to know whether or not we are processing your personal data
-•	Right to access your personal data
-•	Right to correct inaccuracies in your personal data
-•	Right to request the deletion of your personal data
-•	Right to obtain a copy of the personal data you previously shared with us
-•	Right to non-discrimination for exercising your rights
-•	Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+•	Right to know whether or not we are processing your personal data.
+
+•	Right to access your personal data.
+
+•	Right to correct inaccuracies in your personal data.
+
+•	Right to request the deletion of your personal data.
+
+•	Right to obtain a copy of the personal data you previously shared with us.
+
+•	Right to non-discrimination for exercising your rights.
+
+•	Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling").
+
 Depending upon the state where you live, you may also have the following rights:
-•	Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
-•	Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Oregon’s privacy law)
-•	Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
-•	Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
+
+•	Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law).
+
+•	Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Oregon’s privacy law).
+
+•	Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law).
+
+•	Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law).
 
 ### How to Exercise Your Rights
 
@@ -269,8 +295,9 @@ This privacy notice satisfies the notice requirements defined in both Privacy Ac
 
 If you do not wish to provide the personal information necessary to fulfill their applicable purpose, it may affect our ability to provide our services, in particular:
 
-•	offer you the products or services that you want
-•	respond to or help with your requests
+•	offer you the products or services that you want; and
+
+•	respond to or help with your requests.
 
 At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
 
