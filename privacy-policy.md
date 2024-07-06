@@ -5,8 +5,10 @@ Last updated July 07, 2024
 
 
 This privacy notice for KarlD18 ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+
 •	Download and use our Discord application (r/KarlD18), or any other application of ours that links to this privacy notice
 •	Engage with us in other related ways, including any sales, marketing, or events
+
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
 
 
@@ -59,6 +61,7 @@ In Short: We collect personal information that you provide to us.
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
 Personal Information Provided by You: The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+
 •	usernames
 
 Sensitive Information: We do not process sensitive information.
@@ -70,6 +73,7 @@ All personal information that you provide to us must be true, complete, and accu
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+
 •	To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 ### 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
@@ -79,6 +83,7 @@ In Short: We only process your personal information when we believe it is necess
 ### If you are located in the EU or UK, this section applies to you.
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
+
 •	Consent: We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
 •	Legal Obligations: We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 •	Vital Interests: We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
@@ -88,6 +93,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
+
 •	If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
 •	For investigations and fraud detection and prevention
 •	For business transactions provided certain conditions are met
@@ -105,6 +111,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
 
 We may need to share your personal information in the following situations:
+
 •	Business Transfers: We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 ### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
@@ -192,6 +199,7 @@ L. Sensitive personal information	:
 NO
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+
 •	Receiving help through our customer support channels;
 •	Participation in customer surveys or contests; and
 •	Facilitation in the delivery of our Services and to respond to your inquiries.
@@ -215,6 +223,7 @@ We have not disclosed, sold, or shared any personal information to third parties
 ### Your Rights
 
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
+
 •	Right to know whether or not we are processing your personal data
 •	Right to access your personal data
 •	Right to correct inaccuracies in your personal data
@@ -259,8 +268,10 @@ We collect and process your personal information under the obligations and condi
 This privacy notice satisfies the notice requirements defined in both Privacy Acts, in particular: what personal information we collect from you, from which sources, for which purposes, and other recipients of your personal information.
 
 If you do not wish to provide the personal information necessary to fulfill their applicable purpose, it may affect our ability to provide our services, in particular:
+
 •	offer you the products or services that you want
 •	respond to or help with your requests
+
 At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
 
 If you believe we are unlawfully processing your personal information, you have the right to submit a complaint about a breach of the Australian Privacy Principles to the Office of the Australian Information Commissioner and a breach of New Zealand's Privacy Principles to the Office of New Zealand Privacy Commissioner.
