@@ -208,7 +208,7 @@ NO
 K. Inferences drawn from collected personal information	inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics:
 NO
 
-L. Sensitive personal information	:
+L. Sensitive personal information:
 NO
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
