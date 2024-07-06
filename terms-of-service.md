@@ -59,7 +59,7 @@ The Services are not tailored to comply with industry-specific regulations (Heal
 
 ### 2. INTELLECTUAL PROPERTY RIGHTS
 
-Our intellectual property
+### Our intellectual property
 
 We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the "Content"), as well as the trademarks, service marks, and logos contained therein (the "Marks").
 
@@ -67,7 +67,7 @@ Our Content and Marks are protected by copyright and trademark laws (and various
 
 The Content and Marks are provided in or through the Services "AS IS" for your personal, non-commercial use only.
 
-Your use of our Services
+### Your use of our Services
 
 Subject to your compliance with these Legal Terms, including the "PROHIBITED ACTIVITIES" section below, we grant you a non-exclusive, non-transferable, revocable license to:
 •	access the Services; and
@@ -82,7 +82,7 @@ We reserve all rights not expressly granted to you in and to the Services, Conte
 
 Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
 
-Your submissions and contributions
+### Your submissions and contributions
 
 Please review this section and the "PROHIBITED ACTIVITIES" section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
 
@@ -105,7 +105,7 @@ You are solely responsible for your Submissions and/or Contributions and you exp
 
 We may remove or edit your Content: Although we have no obligation to monitor any Contributions, we shall have the right to remove or edit any Contributions at any time without notice if in our reasonable opinion we consider such Contributions harmful or in breach of these Legal Terms. If we remove or edit any such Contributions, we may also suspend or disable your account and report you to the authorities.
 
-Copyright infringement
+### Copyright infringement
 
 We respect the intellectual property rights of others. If you believe that any material available on or through the Services infringes upon any copyright you own or control, please immediately refer to the "COPYRIGHT INFRINGEMENTS" section below.
 
@@ -119,11 +119,9 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 
 All purchases are non-refundable.
 
-
 We accept the following forms of payment:
 
 -  PayPal
-
 
 You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in Euros.
 
@@ -198,7 +196,7 @@ We may accept, reject, or remove reviews in our sole discretion. We have absolut
 
 ### 9. DISCORD APPLICATION LICENSE
 
-Use License
+### Use License
 
 If you access the Services via the App, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the App on wireless electronic devices owned or controlled by you, and to access and use the App on such devices strictly in accordance with the terms and conditions of this Discord application license contained in these Legal Terms. You shall not: (1) except as permitted by applicable law, decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the App; (2) make any modification, adaptation, improvement, enhancement, translation, or derivative work from the App; (3) violate any applicable laws, rules, or regulations in connection with your access or use of the App; (4) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us or the licensors of the App; (5) use the App for any revenue-generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended; (6) make the App available over a network or other environment permitting access or use by multiple devices or users at the same time; (7) use the App for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the App; (8) use the App to send automated queries to any website or to send any unsolicited commercial email; or (9) use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the App.
 
@@ -236,19 +234,19 @@ These Legal Terms are governed by and interpreted following the laws of Austria,
 
 ### 17. DISPUTE RESOLUTION
 
-Informal Negotiations
+### Informal Negotiations
 
-To expedite resolution and control the cost of any dispute, controversy, or claim related to these Legal Terms (each a "Dispute" and collectively, the "Disputes") brought by either you or us (individually, a "Party" and collectively, the "Parties"), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least one (1) year before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
+To expedite resolution and control the cost of any dispute, controversy, or claim related to these Legal Terms (each a "Dispute" and collectively, the "Disputes") brought by either you or us (individually, a "Party" and collectively, the "Parties"), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least twelve (12) months before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
 
-Binding Arbitration
+### Binding Arbitration
 
 Any dispute arising from the relationships between the Parties to these Legal Terms shall be determined by one arbitrator who will be chosen in accordance with the Arbitration and Internal Rules of the European Court of Arbitration being part of the European Centre of Arbitration having its seat in Strasbourg, and which are in force at the time the application for arbitration is filed, and of which adoption of this clause constitutes acceptance. The seat of arbitration shall be in Austria. The language of the proceedings shall be German. Applicable rules of substantive law shall be the law of Austria.
 
-Restrictions
+### Restrictions
 
 The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilize class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.
 
-Exceptions to Informal Negotiations and Arbitration
+### Exceptions to Informal Negotiations and Arbitration
 
 The Parties agree that the following Disputes are not subject to the above provisions concerning informal negotiations binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
 
