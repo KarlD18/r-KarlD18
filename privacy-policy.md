@@ -10,7 +10,7 @@ This privacy notice for KarlD18 ("we," "us," or "our"), describes how and why we
 
 •	Engage with us in other related ways, including any sales, marketing, or events.
 
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
+Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at bot.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
 
 
 ### SUMMARY OF KEY POINTS
@@ -31,7 +31,7 @@ How do we keep your information safe? We have organizational and technical proce
 
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-How do you exercise your rights? The easiest way to exercise your rights is by contacting us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18). We will consider and act upon any request in accordance with applicable data protection laws.
+How do you exercise your rights? The easiest way to exercise your rights is by contacting us at bot.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18). We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the privacy notice in full.
 
@@ -157,7 +157,7 @@ Withdrawing your consent: If we are relying on your consent to process your pers
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
+If you have questions or comments about your privacy rights, you may email us at bot.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
 
 ### 8. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -265,7 +265,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 ### How to Exercise Your Rights
 
-To exercise these rights, you can contact us by emailing us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
+To exercise these rights, you can contact us by emailing us at bot.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
 
@@ -277,7 +277,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 ### Appeals
 
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18). We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at bot.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18). We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
 ### California "Shine The Light" Law
 
@@ -321,8 +321,8 @@ We may update this privacy notice from time to time. The updated version will be
 
 ### 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at r.karld18@gmail.com or contact us via Discord/Reddit Direct Messages (KarlD18).
+If you have questions or comments about this notice, you may email us at bot.karld18@gmail.com or contact us via Discord/Reddit Direct Messages (KarlD18).
 
 ### 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please contact us at r.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
+You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please contact us at bot.karld18@gmail.com or via Discord/Reddit Direct Messages (KarlD18).
